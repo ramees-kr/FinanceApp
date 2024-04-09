@@ -4,6 +4,32 @@
 
 FinanceApp is a Windows Forms application designed to manage bank account transactions and provide users with access to their account details and transaction history. It allows users to view their account balances, add new transactions, update existing transactions, and delete transactions.
 
+## Screenshots
+
+### Login Page
+
+![Login Page](Screenshots/Login.png)
+
+### Main Application Form
+
+![Main Application Form](Screenshots/MainForm.png)
+
+### Account Summary
+
+![Account Summary](Screenshots/AccountSummary.png)
+
+### Add Transaction
+
+![Add Transaction](Screenshots/AddTransaction.png)
+
+### Update Transaction
+
+![Update Transaction](Screenshots/UpdateTransaction.png)
+
+### Login Attempt Counter
+
+![Login Attempt Counter](Screenshots/LoginCounter.png)
+
 ## Features
 
 - **Authentication:** Authenticate users to ensure secure access to account details.
